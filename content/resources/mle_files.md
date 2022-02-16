@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-879-research-seminar-in-system-dynamics-spring-2014/90ebc69a33f152e70a43e2668c4e7865_MLE_files.zip
+file: /media/courses/15-879-research-seminar-in-system-dynamics-spring-2014/90ebc69a33f152e70a43e2668c4e7865_MLE_files.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Student Projects
+parent_type: CourseSection
 resourcetype: Other
 title: MLE_files.zip
 uid: 90ebc69a-33f1-52e7-0a43-e2668c4e7865

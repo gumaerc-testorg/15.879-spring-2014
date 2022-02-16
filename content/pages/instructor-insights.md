@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 862b0b7e-4a8c-049f-7678-c5a2f3490163
 ---
@@ -34,20 +36,6 @@ Curriculum Information
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![View of conference table and chairs toward the back of the room.]({{< resource_file 76a464ef-daca-93be-b52c-e84aab97bd63 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This seminar room has a capacity of ~25-30 and includes LCD projection, laptop hookup, wireless network, and technology for distance education. (Photo courtesy of Richard Hill.)
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
