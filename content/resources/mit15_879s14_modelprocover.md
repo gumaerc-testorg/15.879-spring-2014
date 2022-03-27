@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 487a9397-f712-4495-f5cf-0d8d9167d15e
 resourcetype: Document
 title: Rahmandad, Hazhir
 uid: da344570-c02f-bb70-8eec-93084927c4bd

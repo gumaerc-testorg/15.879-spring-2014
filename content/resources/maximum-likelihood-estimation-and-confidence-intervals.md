@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Maximum Likelihood Estimation and Confidence Intervals
 uid: 4fd8e822-2675-eb4e-5d01-7d94982cb4a5
 video_files:

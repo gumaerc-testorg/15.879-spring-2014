@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Projects
 parent_type: CourseSection
+parent_uid: 8c8544ac-bfcd-6115-1b40-3fb74bb88c5b
 resourcetype: Other
 title: MLE_files.zip
 uid: 90ebc69a-33f1-52e7-0a43-e2668c4e7865
