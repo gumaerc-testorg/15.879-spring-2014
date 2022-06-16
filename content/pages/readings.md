@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of the required readings for the course,
+  and provides links to handouts and additional references.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -47,7 +49,7 @@ Martinez–Moyano, Ignacio, and George P. Richardson. "[Best Practices in System
 
 Andersen, David F., George P. Richardson, et al. "[Group Model Buidling: Adding More Science to the Craft](http://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291099-1727%28199722%2913:2%3C187::AID-SDR124%3E3.0.CO;2-O/abstract)." _System Dynamics Review_ 13, no. 2 (1998): 187–201.
 
-[Hines Modeling Process Overview (PDF)]({{< baseurl >}}/resources/mit15_879s14_modelprocover)
+{{% resource_link da344570-c02f-bb70-8eec-93084927c4bd "Hines Modeling Process Overview (PDF)" %}}
 
 Wolstenholme, Eric F. "A Systematic Approach to Model Creation." In _Modeling for Learning Organizations_. Edited by John D. W. Morecroft and John D. Sterman. Productivity Press, 1994. ISBN: 9781563270604.
 
@@ -180,7 +182,7 @@ Calibration (Maximum Likelihood and simulated method of moments)
 {{< tdopen >}}
 
 
-Jalali, Mohammad, Hazhir Rahmandad, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Using the Method of Simulated Moments (MSM) for Identification of Dynamic Models." (PDF)](https://www.systemdynamics.org/assets/PhD_Colloquium/25th/s/Jalali.pdf) Working Paper, 2014.
+Jalali, Mohammad, Hazhir Rahmandad, et al. ["Using the Method of Simulated Moments (MSM) for Identification of Dynamic Models." (PDF)](https://www.systemdynamics.org/assets/PhD_Colloquium/25th/s/Jalali.pdf) Working Paper, 2014.
 
 Struben, Jeroen, John Sterman, and David Keith. "Parameter and Confidence Interval Estimation in Dynamic Models: Maximum Likelihood and Bootstrapping Methods." Working Paper, 2014.
 
@@ -282,7 +284,7 @@ Hines, Jim. [Guidelines for kickoff meeting and first Group presentation: Defini
 
 ———. [Guidelines for sixth project week and presentation: Model and analysis of first hypothesis (PDF)](/courses/15-875-applications-of-system-dynamics-spring-2004/resources/handout6)
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Molecules of Structure: Building Blocks for System Dynamics Models. Version 2.02 (2005) (PDF)](http://www.mindseyecomputing.com/molecule.pdf)
+———. [Molecules of Structure: Building Blocks for System Dynamics Models. Version 2.02 (2005) (PDF)](http://www.mindseyecomputing.com/molecule.pdf)
 
 Additional References
 ---------------------

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-879-research-seminar-in-system-dynamics-spring-2014/3866ab4738e1aedc63138dbc95bccef7_pPqI5LbC96Y.pdf
+file: /courses/15-879-research-seminar-in-system-dynamics-spring-2014/3866ab4738e1aedc63138dbc95bccef7_pPqI5LbC96Y.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

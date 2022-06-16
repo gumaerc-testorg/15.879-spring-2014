@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course description and objectives, and information
+  on meeting times, prerequisites, major course concepts and techniques, required
+  texts, software, hardware, reading assignments, weekly presentations, class exercises,
+  projects and tutorials, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -49,7 +53,7 @@ Many class exercises will require the use of a computer.
 Reading Assignments
 -------------------
 
-We flip the classroom, so class work relies on the assumption that you have done the readings and we can build on that basic knowledge. The reading assignments will consist of relevant articles, tutorials, and business dynamics and Vensim manual chapters. We assume a general familiarity with Sterman's text, which is a reference book for the course, but additional required reading will be assigned from that. See the [Readings section]({{< baseurl >}}/pages/readings) for a list of the assigned readings and additional references.
+We flip the classroom, so class work relies on the assumption that you have done the readings and we can build on that basic knowledge. The reading assignments will consist of relevant articles, tutorials, and business dynamics and Vensim manual chapters. We assume a general familiarity with Sterman's text, which is a reference book for the course, but additional required reading will be assigned from that. See the {{% resource_link 487a9397-f712-4495-f5cf-0d8d9167d15e "Readings section" %}} for a list of the assigned readings and additional references.
 
 Weekly Presentations
 --------------------

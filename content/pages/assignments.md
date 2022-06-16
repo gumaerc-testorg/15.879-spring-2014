@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This sections contains descriptions of the assignments for the course,
+  including homework, group projects, and tutorials.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -65,7 +67,7 @@ Please select your team's top three choices for tutorials from the list below an
 
 ### Method of Simulated Moments (MSM)
 
-The chapter by Jalali et al. (2014) in the [Readings]({{< baseurl >}}/pages/readings) section provides an easy overview of the method of simulated moments, and offers a simple exercise at the end of the chapter for model estimation and confidence interval approximation. The exercise's solution in Matlab is available. Your goal is to implement and solve that exercise in Vensim, using Vensim's optimization to solve the estimation problem. Note that you may need to make some changes to the Vensim models to correctly implement the method. In your video tutorial review the key formulations that leverage subscripts to implement MSM matrices and calculate different steps of the process. Go through the steps one by one, rather than using command scripts, so that viewers can follow all of the steps of the process.
+The chapter by Jalali et al. (2014) in the {{% resource_link 487a9397-f712-4495-f5cf-0d8d9167d15e "Readings" %}} section provides an easy overview of the method of simulated moments, and offers a simple exercise at the end of the chapter for model estimation and confidence interval approximation. The exercise's solution in Matlab is available. Your goal is to implement and solve that exercise in Vensim, using Vensim's optimization to solve the estimation problem. Note that you may need to make some changes to the Vensim models to correctly implement the method. In your video tutorial review the key formulations that leverage subscripts to implement MSM matrices and calculate different steps of the process. Go through the steps one by one, rather than using command scripts, so that viewers can follow all of the steps of the process.
 
 ### Kalman Filtering and Estimation
 
@@ -79,4 +81,4 @@ In this tutorial you will use the Loop Eigenvalue Elasticity Analysis (LEEA) on 
 
 The chapter by Struben et al (2014; in course readings) provides an overview of maximum likelihood estimation and bootstrapping for estimation and confidence intervals. Your goal for this tutorial is to solve the challenge at the end of the chapter, only focusing on estimation of the model using MLE and determining the univariate likelihood intervals using likelihood ratio method in Vensim. The implementation provided with the chapter is in R, so you need to develop the estimation steps and confidence interval determination in Vensim.
 
-Tutorial project examples can be found in the [Student Projects section]({{< baseurl >}}/pages/student-projects).
+Tutorial project examples can be found in the {{% resource_link 8c8544ac-bfcd-6115-1b40-3fb74bb88c5b "Student Projects section" %}}.
