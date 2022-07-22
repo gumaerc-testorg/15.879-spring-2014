@@ -5,6 +5,7 @@ file: /courses/15-879-research-seminar-in-system-dynamics-spring-2014/da344570c0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Rahmandad, Hazhir
 uid: da344570-c02f-bb70-8eec-93084927c4bd
 ---
 This resource contains information regarding Hines Modeling Process Overview.
-
