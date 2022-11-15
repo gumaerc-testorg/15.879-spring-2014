@@ -53,8 +53,10 @@
   "learning_resource_types": [
     "Tutorial Videos",
     "Written Assignments",
-    "Media Assignments with Examples"
+    "Media Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "d3ff4f37-5992-485b-ad21-89e13626b7e9",
+  "site_uid": "a0183473-c157-4ad3-8e53-dfe66beef8dd",
+  "short_id": "15.879-spring-2014",
   "title": "Course Metadata"
 }
