@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-879-research-seminar-in-system-dynamics-spring-2014/5e634b778f3b281279f967f2b95d4f5b_7xJJU5HDCVE.srt
+file_size: 35828
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
