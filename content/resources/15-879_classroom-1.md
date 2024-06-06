@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-879-research-seminar-in-system-dynamics-spring-2014/76a464efdaca93beb52ce84aab97bd63_15-879_classroom-1.jpg
+file_size: 35148
 file_type: image/jpeg
 image_metadata:
   caption: ''
