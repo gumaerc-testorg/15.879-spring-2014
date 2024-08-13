@@ -60,7 +60,7 @@ Master's and Doctoral students
 
 ### Breakdown by Major
 
-Mainly students in the [MIT Sloan School of Management](https://mitsloan.mit.edu/) and in the [School of Engineering](http://engineering.mit.edu), including students in [System Design & Management](https://sdm.mit.edu) and the [Engineering Systems Division](http://esd.mit.edu). A few students from other fields, such as Architecture, and graduate students cross-registered in other schools or in industries also participated.
+Mainly students in the {{% resource_link "f7f6d9f1-0bae-4537-b48d-8adfb9126298" "MIT Sloan School of Management" %}} and in the {{% resource_link "ae888e15-e8b4-4424-852e-762b4964e24e" "School of Engineering" %}}, including students in {{% resource_link "e0440f9f-af01-436a-9c7f-77b08d30ddc0" "System Design & Management" %}} and the {{% resource_link "8a9b94f3-7730-40be-a74d-fab3fdc1f62e" "Engineering Systems Division" %}}. A few students from other fields, such as Architecture, and graduate students cross-registered in other schools or in industries also participated.
 
 ### Typical Student Background
 
