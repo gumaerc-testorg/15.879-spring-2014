@@ -58,7 +58,7 @@ Maximum Likelihood Estimation and Confidence Intervals
 Previous Student Projects
 -------------------------
 
-The following examples from previous offerings of the course are linked to below, but can be found or downloaded from VirginiaTech’s System Dynamics Lab (SDL) [Tutorials and Resources](http://www.sdl.ise.vt.edu/tutorials.html) web page.
+The following examples from previous offerings of the course are linked to below, but can be found or downloaded from VirginiaTech’s System Dynamics Lab (SDL) {{% resource_link "5f40c037-de31-4436-9bd8-3e360b0b73b2" "Tutorials and Resources" %}} web page.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -75,43 +75,43 @@ SUPPLEMENTAL FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Sensitivity Analysis in Vensim](http://www.sdl.ise.vt.edu/Tutorial/sensitivity-analysis-video.html)
+{{% resource_link "afb36d0d-63d8-424b-a92c-2e14fcf73520" "Sensitivity Analysis in Vensim" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Sensitivity Analysis in Vensim Supplemental Files (ZIP)](http://www.sdl.ise.vt.edu/Tutorial/sensitivity-analysis-files.zip) 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Connecting Vensim to MS Access with ODBC](http://www.sdl.ise.vt.edu/Tutorial/odbc-video.html)
-{{< tdclose >}}
-{{< tdopen >}}
-[Connecting Vensim to MS Access with ODBC Supplemental Files (ZIP)](http://www.sdl.ise.vt.edu/Tutorial/odbc-files.zip)
+{{% resource_link "46c5f166-a5c4-4931-a2af-2c7d9d098fc4" "Sensitivity Analysis in Vensim Supplemental Files (ZIP)" %}} 
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Using Command Script in Vensim](http://www.sdl.ise.vt.edu/Tutorial/command_script-video.html)
+{{% resource_link "dfb389f7-c844-4666-a0bd-77641cf4be54" "Connecting Vensim to MS Access with ODBC" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Script in Vensim Supplemental Files (ZIP)](http://www.sdl.ise.vt.edu/Tutorial/command_script-files.zip)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Linear Regression in Vensim](http://www.sdl.ise.vt.edu/Tutorial/linear-regression-using-vensim.html)
-{{< tdclose >}}
-{{< tdopen >}}
-[Linear Regression in VensimSupplemental Files (ZIP)](http://www.sdl.ise.vt.edu/Tutorial/linear-regression-using-vensim-file.zip)
+{{% resource_link "3dcf7ab6-cc2f-4d01-ac8d-6cc6f7580508" "Connecting Vensim to MS Access with ODBC Supplemental Files (ZIP)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Subscripts in Vensim](http://www.sdl.ise.vt.edu/Tutorial/subscripts-using-vensim.html)
+{{% resource_link "a6eae17b-e7d8-4f9f-8d19-8ec658e4f1e4" "Using Command Script in Vensim" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link "b2f52a2d-5e8e-4393-89b0-7a2bb69ad85f" "Script in Vensim Supplemental Files (ZIP)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link "c41a62ee-90d5-43fb-8aae-ab2f3130e787" "Linear Regression in Vensim" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link "b30d924e-93f0-4cca-ae33-730a85f8bb84" "Linear Regression in VensimSupplemental Files (ZIP)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link "b79a1d42-992d-4711-85f6-366723a7ea33" "Subscripts in Vensim" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 No Supplemental Files
