@@ -43,7 +43,7 @@ Sterman, John D. _Business Dynamics: Systems Thinking and Modeling for a Complex
 Software
 --------
 
-Vensim DSS (Decision Support System). **Vensim DSS** is Ventana's top-of-the-line version. See the [Vensim website](http://vensim.com/) for download options.
+Vensim DSS (Decision Support System). **Vensim DSS** is Ventana's top-of-the-line version. See the {{% resource_link "8f7cab63-24eb-4718-855e-d4ba4194c133" "Vensim website" %}} for download options.
 
 Hardware
 --------

@@ -25,7 +25,7 @@ Homework 2
 ### Replicate & Understand Sterman 85 Model
 
 This homework includes replication and analysis of the model in:  
-Sterman, John. "[A Behavioral Model of the Economic Long Wave](http://dx.doi.org/10.1016/0167-2681(85)90023-X)." _Journal of Economic Behavior and Organization_ 6, no. 1 (1985): 17-53.
+Sterman, John. "{{% resource_link "25987d9c-9c71-4945-9831-c3e391f7a0ec" "A Behavioral Model of the Economic Long Wave" %}}." _Journal of Economic Behavior and Organization_ 6, no. 1 (1985): 17-53.
 
 The equations for the model are listed at the end of the paper. Your goal is to build that model in Vensim, replicate its behavior, specifically, try to replicate the behavior in Figure 8 with self-ordering mechanism active, and understand where that behavior comes from in terms of different contributing loops and structures.
 
@@ -36,7 +36,7 @@ Projects
 
 The course is organized around your team projects, which are expected to be at a quality sufficient to generate journal publications. You select your team and your project by the first session. Teams of 2–4 students will work on the projects. Teams will follow a structured process for enhancing the project. Adherence to this process is critical to enable timely management of the project. You will have presentations of your project progress every other week, providing an opportunity to receive feedback from the instructor and your classmates.
 
-The final report from the project is a (preferably journal-submission-ready) manuscript that discusses the problem, the literature, the modeling and analysis work, and your results and insights. Use the [System Dynamics Review's guidelines for authors](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1727/homepage/ForAuthors.html) for formatting, length, and other style issues. Final reports are due by the last day of classes.
+The final report from the project is a (preferably journal-submission-ready) manuscript that discusses the problem, the literature, the modeling and analysis work, and your results and insights. Use the {{% resource_link "f01ebe42-80b2-488e-bff2-ce8d2c2dca2e" "System Dynamics Review's guidelines for authors" %}} for formatting, length, and other style issues. Final reports are due by the last day of classes.
 
 Projects are evaluated based on the final report, their progress throughout the semester, the openness to learning shown by the team, quality of modeling and analysis, and the insights the project has generated for all the parties involved. Each individual will anonymously evaluate and provide reviews for the other projects, and so will the instructor. Final project grade is an evenly-weighted average of instructor and student evaluations of each project.
 
@@ -54,7 +54,7 @@ Tutorials
 
 Your team is expected to develop a video tutorial that either (1) introduces one of the methods we cover in the course (e.g. optimization, calibration, differential games) using a simple example, or (2) clearly shows how to use a specific capability within Vensim to solve a common modeling problem. The pool of potential tutorial topics will be provided by the instructor. This exercise has multiple benefits for all involved. You will learn about the topic in your tutorial, as well as the tutorials developed by others in the class. Moreover, the repository of these tutorials will be a resource for yourself as well as future students; in fact you will benefit from some of such previous tutorials during this semester.
 
-Please confirm your tutorial topic with instructor by the third class session. You will then develop a clear but brief (under 40 min) video tutorial and go through the motivation, problem definitions as well as step-by-step instructions of solving the problem. You can record the video using the trial version ofa video capture software such as [Camtasia](http://www.techsmith.com/camtasia.html)™. If you go this route, make sure you plan your recording within the trial period of the software, or any other method of your choice. The video tutorial should be detailed enough to allow anybody with access to Vensim DSS (or your implementation software of choice) to replicate your solution to the defined problem. Make sure your tutorial includes credits for your team and any other parties involved.
+Please confirm your tutorial topic with instructor by the third class session. You will then develop a clear but brief (under 40 min) video tutorial and go through the motivation, problem definitions as well as step-by-step instructions of solving the problem. You can record the video using the trial version ofa video capture software such as {{% resource_link "1a183c85-7c3b-4354-9e0b-6bcd3034c8e9" "Camtasia" %}}™. If you go this route, make sure you plan your recording within the trial period of the software, or any other method of your choice. The video tutorial should be detailed enough to allow anybody with access to Vensim DSS (or your implementation software of choice) to replicate your solution to the defined problem. Make sure your tutorial includes credits for your team and any other parties involved.
 
 The tutorial topics are assigned to the tutorials on a first-come-first-served basis. The instructor will let you know about the first available topic, which will be your designated topic, and you can start working on your tutorial from then on.
 
