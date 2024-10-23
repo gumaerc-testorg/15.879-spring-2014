@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Hines Modeling Process Overview.
-file: /courses/15-879-research-seminar-in-system-dynamics-spring-2014/da344570c02fbb708eec93084927c4bd_MIT15_879S14_ModelProcOver.pdf
+file: /ol-ocw-studio-app/courses/15-879-research-seminar-in-system-dynamics-spring-2014/da344570c02fbb708eec93084927c4bd_MIT15_879S14_ModelProcOver.pdf
 file_size: 250722
 file_type: application/pdf
 learning_resource_types:
