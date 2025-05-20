@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-879-research-seminar-in-system-dynamics-spring-2014/19bc6637d7fb1de000bd678c5076c96a_15-789_stat-students.png
+file: /courses/15-879-research-seminar-in-system-dynamics-spring-2014/19bc6637d7fb1de000bd678c5076c96a_15-789_stat-students.png
 file_size: 2981
 file_type: image/png
 image_metadata:
