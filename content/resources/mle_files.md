@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-879-research-seminar-in-system-dynamics-spring-2014/90ebc69a33f152e70a43e2668c4e7865_MLE_files.zip
+file: /courses/15-879-research-seminar-in-system-dynamics-spring-2014/90ebc69a33f152e70a43e2668c4e7865_MLE_files.zip
 file_size: 3355
 file_type: application/zip
 learning_resource_types: []
